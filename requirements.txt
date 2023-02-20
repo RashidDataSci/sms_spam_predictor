@@ -1,8 +1,3 @@
 streamlit
+nltk
 sklearn
-numpy
-pandas 
-seaborn 
-matplotlib 
-plotly 
-scikit-learn
